@@ -2,7 +2,7 @@
 I am Tautik from India, currently pursuing Computer Science and Engineering with specialisation in Data Science.
 
 - 🌱 I’m currently learning Problem Solving and DSA.
-- 📫 How to reach me: Instagram: @tautik_!234 : Twitter: TautikPenumudi
+- 📫 How to reach me: Instagram: @tautik_1234 : Twitter: TautikPenumudi
 
 <!--
 **tautik1234/tautik1234** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
